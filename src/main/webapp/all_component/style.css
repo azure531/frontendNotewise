@@ -1,0 +1,9 @@
+
+.navbar-nav .nav-item:hover {
+    background-color: white;
+    border-radius: 10px; /* Adjust the value to control the level of rounding */
+}
+
+.navbar-nav .nav-item:hover a {
+    color: black; /* Change this to the desired color for the text when hovered */
+}
